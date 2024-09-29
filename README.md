@@ -1,4 +1,6 @@
-## Hi there 👋
+## I made an account to make issue reports
+## The 568 number is there so I don't use up the username "I-madeanaccounttomake-issuereports"
+## Idk I think people care about special usernames like everywhere else where you can sign up with a username
 
 <!--
 **I-madeanaccounttomake-issuereports568/I-madeanaccounttomake-issuereports568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
