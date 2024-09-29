@@ -2,7 +2,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset=".txt.gif">
  <source media="(prefers-color-scheme: light)" srcset="lightmode.png">
- <img alt="YOUR-ALT-TEXT" src=".txt.gif">
+ <img alt="A man typing on the computer pootis pootis pootis  pootis" src=".txt.gif">
 </picture>
 
 ## The 568 number is there so I don't use up the username "I-madeanaccounttomake-issuereports"
